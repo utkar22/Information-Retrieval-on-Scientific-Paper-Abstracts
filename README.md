@@ -67,17 +67,6 @@ Provided support for queries like T1 AND T2 OR T3 OR T4 ....
 
 Computed the minimum number of comparisons required for query execution.
 
-### Input Format
-
-- The first line contains N denoting the number of queries to execute.
-- The next 2N lines contain queries in the specified format.
-
-### Output Format
-
-- 4N lines consisting of the results.
-
-### Perform Preprocessing Steps on Input Sequence.
-
 ## Phrase Queries
 
 ### Create Bigram Inverted Index
